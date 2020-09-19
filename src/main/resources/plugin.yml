@@ -1,0 +1,5 @@
+name: EventTest
+version: @version@
+main: me.gigaadamyt.eventtest.Main
+authors: [ Autori ]
+description: Popis
