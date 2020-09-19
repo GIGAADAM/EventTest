@@ -11,7 +11,7 @@ public final class Main extends JavaPlugin {
     public void onEnable() {
 
         // Plugin pro GitHub Repository test
-
+        // Update 0.1.
 
     }
 
